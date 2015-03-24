@@ -6,6 +6,6 @@ This is my attempt at using an online guide to teach myself the Objective C prog
 
 [The guide can be found here.](http://www.binpress.com/tutorial/learn-objectivec-in-24-days/38)
 
-All code is organized by the sequence of what is presented in the guide.
+All code is organized by the sequence of what is presented in the guide. Note that there are multiple "days" in the guide linked above, which this repo does not reflect.
 
 Licensed under MIT License
